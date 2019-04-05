@@ -1,0 +1,4 @@
+Hi there, I was written by javascript
+I was added by JS
+
+I was added to the previous text
